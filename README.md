@@ -28,5 +28,8 @@ data structures
 thread-safe primitive?
 ● Hint: you usually need this for lists and stacks…
 
+https://www.cs.cmu.edu/~410-s05/lectures/L31_LockFree.pdf
+https://pdfs.semanticscholar.org/b3a6/ed040a94cd527bc746fcd7063ac693bf7c1a.pdf
+
    
 #https://www.solarflare.com/ultra-low-latency
