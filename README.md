@@ -33,3 +33,8 @@ https://pdfs.semanticscholar.org/b3a6/ed040a94cd527bc746fcd7063ac693bf7c1a.pdf
 
    
 #https://www.solarflare.com/ultra-low-latency
+
+
+
+https://www.ea.oit.va.gov/EAOIT/docs/Oct_2016_Release_Docs/APM-2-2.pdf
+
